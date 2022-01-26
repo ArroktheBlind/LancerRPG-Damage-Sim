@@ -17,9 +17,9 @@ class Weapon:
 	AP = 0
 	Inaccurate = 0
 	Loading = 0
-	Reload = 0 #Helper variable for loading in sim mode
+	Reload = 0 #Helper variable for loading in sim mode. Technically unncessesary because of member creation at runtime
 	Overkill = 0
-	Reliable = 0 #specify value of reliable
+	Reliable = 0 #Specify value of reliable
 	Seeking = 0
 
 
