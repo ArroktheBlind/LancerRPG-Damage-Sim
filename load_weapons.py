@@ -1,0 +1,1 @@
+#Provides functions for loading weapon data from .json and .lcp files

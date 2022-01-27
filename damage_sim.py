@@ -1,5 +1,6 @@
 #A program to help simulating damage per round in the Lancer RPG
 import random
+import weapon_class
 
 def roll_accuracy(value):
 	maxroll = 1

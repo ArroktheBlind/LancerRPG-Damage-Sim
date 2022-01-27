@@ -9,7 +9,9 @@ class Weapon:
 	die_size = 0
 	flat_damage = 0
 	damage_type = 0
+	'''Other Parameters'''
 	self heat = 0
+	flat_to_hit = 0
 	'''Weapon Tags'''
 	#Only tags directly relevant to damage and hit calculations have been included. 
 	#Treat as booleans except where noted
